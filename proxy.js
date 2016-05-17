@@ -1,7 +1,8 @@
 import edge from 'edge';
+import path from 'path';
 
 const baseOptions = {
-	assemblyFile: 'MSMQLib.dll',
+	assemblyFile: path.join(__dirname, 'MSMQLib.dll'),
 	typeName: 'MSMQLib.MSMQInterface',
 };
 

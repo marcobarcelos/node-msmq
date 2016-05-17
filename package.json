@@ -1,6 +1,6 @@
 {
   "name": "node-msmq",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A MSMQ implementation for node.js",
   "main": "dist/index.js",
   "scripts": {
